@@ -1,0 +1,130 @@
+h1{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+  text-align: center;
+}
+h2{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: white;
+}
+h3{
+  text-align: left;
+}
+footer{
+  color: white;
+  background-color: black;
+  clear: both;
+}
+header{
+  color: white;
+  background-image: url(../IMG/Flat-Ocean.jpg);
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+  width: 100%;
+}
+#Cardiganlink{
+  color: green;
+}
+#Cardiganlink:hover{
+  font-size: 18px;
+}
+#Andoverlink{
+  color: blue;
+}
+#Andoverlink:hover{
+  font-size: 18px;
+}
+body{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: rgb(79, 91, 102);
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+table, tr, td, th{
+  text-align: center;
+  color: grey;
+  padding: 6px;
+  border: lightblue groove 10px;
+  margin: 0 auto;
+}
+#familybody{
+  background-color: lightgrey;
+  color: white;
+}
+#schoolbody{
+  background-color: lightgrey;
+  color: black;
+}
+#athleticsbody{
+  background-color: lightgrey;
+  color: white;
+}
+#introbody{
+  background-color: white;
+  color: black;
+}
+nav li{
+  display:inline-block;
+  width: 160px;
+  background-color: rgba(255,255,255,0.5);
+  margin: 30px 40px;
+  padding: 10px 10px;
+}
+nav li:hover{
+  background-color: rgba(255,255,255,0.8);
+}
+a{
+  color: red;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a:hover{
+  color: darkred;
+  font-style: oblique;
+  font-size: 24px;
+}
+.table{
+  text-align: center;
+}
+#bevphoto{
+  display: inline-block;
+  float: right;
+  margin: 0 auto;
+}
+#intropara{
+  text-align: left;
+  width: 100%;
+}
+#cardy{
+  float:left;
+  display: inline-block;
+}
+#andy{
+  float: right;
+  display: inline-block;
+}
+iframe{
+  border-width: thick;
+  border-color: red;
+  display: inline-flex;
+  float: right;
+}
+#laxlist{
+  text-align: left;
+  margin: auto;
+}
+h3{
+  text-align: left;
+}
+#dlink:hover{
+font-size: 17px;
+}
+#dur{
+  color: white;
+}
